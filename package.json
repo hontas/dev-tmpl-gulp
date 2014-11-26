@@ -1,11 +1,11 @@
 {
-  "name": "dev-tmpl",
-  "version": "1.0.6",
-  "description": "Get developing quickly with dev-tmpl",
-  "main": "index.js",
+  "name": "dev-tmpl-gulp",
+  "version": "1.0.1",
+  "description": "Get developing quickly with dev-tmpl-gulp",
+  "main": "setup.js",
   "repository": {
     "type": "git",
-    "url": "github.com/hontas/dev-tmpl.git"
+    "url": "github.com/hontas/dev-tmpl-gulp.git"
   },
   "scripts": {
     "start": "node setup",
