@@ -22,6 +22,8 @@
     "require-dir": "^0.1.0"
   },
   "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-task-loader": "^1.0.8",
     "jshint": "^2.5.10",
     "jshint-stylish": "^1.0.0"
   }
